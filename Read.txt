@@ -1,0 +1,27 @@
+                                PORTFOLIO
+                 
+main div basically ek wrapper h joki saare content ko wrap krke rkhega .. 
+yeh is liye bhi kiya h kyuki locomotion apply krne ke liye pure content ko wrap krna hota h thas why
+main ko hight width isliye nhi de rhe kyu hume chahiye ki wo pure page ke content ko wrap kre not sirf spectic 100% 
+window ko
+//NAVBAR
+work mein hover krke usme effect lane ke liye phle jo text hota h 
+usko a tag mein krte then after ka use krke hota h
+
+// CENTER 
+mein gola ke lie 2 div liye h dono ko circle bna diya h aur unko absolute de diya h ,, ab usme ek cicle ko stable 
+rakha h aur dusre ko trnasition diya h 
+
+//PR0JECTS
+
+Transition ke liye overlay div ka use kiya h nirmally usko top -100 pe rkha h aur jaise 
+hi hover kr rhe h to usko top=0 de diya h .... aur parent ko overlay hidden diya h 
+-> Image wla effect lgane ke liye set attribute aur get attribute ka use kiya h .
+GET attrbiute : agr dekho ko img tag h hm document.query selector se usko access krke A mein store krva rhe h
+then get attribute ki maddad se hum use A element se kisi bhi sttribute ki vallue nikal skte h ..
+A.getAtrribute("src") krke hume src ki value mil  jayegi .. jisko hum set atribute ki madad se koi bhi vallue 
+assign kr skte h
+
+// Footer 
+last wla design krne ke liye main ko ko black color de de rhe jiske 
+wajah se ek dum pop up wla look aa rha .. 
